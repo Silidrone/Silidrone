@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Artificial Intelligence, Blockchain Programming
 - 💞️ I’m looking to collaborate on anything that I find interesting
 - 📫 How to reach me: email - silidrone@gmail.com
+
 My Stackoverflow profile: https://stackoverflow.com/users/5911206/silidrone
 <!---
 Silidrone/Silidrone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
