@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Silidrone, I am a 19 years old software developer. I am currently working as a full stack developer at Codeise Ltd. I have been interested in programming since I was 8 years old and I have been improving myself since.
+- 👋 Hi, I’m @Silidrone. I am currently working as a full stack developer at Codeise Ltd. I have been interested in programming since I was 8 years old and I have been improving myself since.
 - 👀 I’m interested in Game Development, Embedded Systems Programming, Web Development, DevOps
 - 🌱 I’m currently learning Artificial Intelligence, Blockchain Programming
 - 💞️ I’m looking to collaborate on anything that I find interesting
