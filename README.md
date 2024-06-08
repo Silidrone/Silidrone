@@ -5,7 +5,7 @@
 
 My Stackoverflow profile: https://stackoverflow.com/users/5911206/silidrone
 
-I urge you to check some of my source code on my hobby projects, there is some elegant code there, and also in my solutions to homeworks/challenges throughout my university education.
+I urge you to check some of my code on my hobby projects here, there is some elegant code there. Any advices are welcome :)
 
 <!---
 Silidrone/Silidrone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
