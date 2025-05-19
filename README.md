@@ -5,7 +5,7 @@
 
 - Stackoverflow: https://stackoverflow.com/users/5911206/silidrone
 - Leetcode (love doing leetcode in my free time): https://leetcode.com/u/silidrone/
-- Youtube (you will find my streams/videos here about my hobby projects): youtube.com/@cicakmuhamed
+- Youtube (you will find my streams/videos here about my hobby projects): https://youtube.com/@cicakmuhamed
 
 Feel free to check out some of my code on my hobby projects here. Any advices/contributions are welcome :)
 
