@@ -3,9 +3,9 @@
 - 💞️ I’m looking to collaborate on anything that I find interesting.
 - 📫 How to reach me: email - silidrone@gmail.com
 
-Stackoverflow: https://stackoverflow.com/users/5911206/silidrone
-Leetcode (love doing leetcode in my free time): https://leetcode.com/u/silidrone/
-Youtube (you will find my streams/videos here about my hobby projects): @cicakmuhamed
+- Stackoverflow: https://stackoverflow.com/users/5911206/silidrone
+- Leetcode (love doing leetcode in my free time): https://leetcode.com/u/silidrone/
+- Youtube (you will find my streams/videos here about my hobby projects): youtube.com/@cicakmuhamed
 
 Feel free to check some of my code on my hobby projects here. Any advices/contributions are welcome :)
 
